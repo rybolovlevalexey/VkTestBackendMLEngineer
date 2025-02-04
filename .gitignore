@@ -1,0 +1,19 @@
+# .env файлы
+.env
+*.env
+
+# Виртуальное окружение
+.venv/
+
+# Настройки IDE
+.idea/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Poetry-specific
+poetry.lock
